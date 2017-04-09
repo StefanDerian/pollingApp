@@ -1,0 +1,9 @@
+{
+  "name": "polling-app",
+  "version": "0.0.0",
+  "description": "pollingApp",
+  "main": "server.js",
+  "author": {
+    "name": "private"
+  }
+}
